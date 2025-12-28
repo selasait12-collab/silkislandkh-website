@@ -11,6 +11,7 @@
 
 :root {
   /* Colors */
+  <div class="absolute top-0 z-[-2] h-screen w-screen bg-black bg-[radial-gradient(100%_50%_at_50%_0%,rgba(255,255,255,0.8)_0%,rgba(255,342,203,0.5)_50%,rgba(0,0,0,0)_100%)]"></div>
   --white-color: #fff;
   --dark-color: #252525;
   --primary-color: #000000 ;
@@ -651,4 +652,5 @@ header .navbar {
     flex-direction: column;
     gap: 20px;
   }
+
 }
